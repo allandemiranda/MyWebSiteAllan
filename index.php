@@ -72,7 +72,7 @@
 						<img src="images/5.jpg" alt="img1">
 					</div>
 					<div class="col-md-6 w3-about-grid-right1">
-						<p> Bacharel em Tecnologia da Informação pela UFRN, nascido no dia 20/02/1994 na cidade de Natal/RN.
+						<p style="text-align: justify"> Bacharel em Tecnologia da Informação pela UFRN, nascido no dia 20/02/1994 na cidade de Natal/RN.
 							 No ano de 2012 participou dos cursos profissionalizantes Administrador de Redes – SENAC/RN e 
 							 Montagem e Manutenção de Computadores – SENAC/RN. Cursou na UFRN o Bacharelado em Ciências e 
 							 Tecnologia com ênfase em Tecnologia de Telecomunicações de 2012 a 2017, porém não o concluiu. Em 
@@ -85,7 +85,7 @@
 					<div class="clearfix"></div>
 					<div class="w3-about-grids2">
 						<div class="col-md-6 w3-about-grid-right1">
-							<p> Durante todo seu período na EJECT ficou sempre a frente da manutenção da infraestrutura dos 
+							<p style="text-align: justify"> Durante todo seu período na EJECT ficou sempre a frente da manutenção da infraestrutura dos 
 								serviços web da empresa. Em 2016 foi indicado pela EJECT para juntar-se ao Conselho Administrativo 
 								da Federação de Empresas Juniores do Estado do Rio Grande do Norte – RN Júnior, onde permaneceu 
 								durante todo aquele ano. Ainda em 2016 participou do Curso de Empreendedorismo do SEBRAE – Empretec
@@ -103,7 +103,7 @@
 							<img src="images/1.jpg" alt="img1">
 						</div>
 						<div class="col-md-6 w3-about-grid-right1">
-							<p> Também participou da Monitoria Integrada de Negócios Tecnológicos – ECT/UFRN onde desenvolveu ações 
+							<p style="text-align: justify"> Também participou da Monitoria Integrada de Negócios Tecnológicos – ECT/UFRN onde desenvolveu ações 
 								integradas de ensino, pesquisa e extensão no ano de 2018. Em 2019 participou da escrita de dois capítulos 
 								do livro Gestão do Conhecimento e Inovação – Vol. 10, Editora Poisson. Estagiou no Instituto 
 								Técnico-Científico de Perícia – ITEP/RN, inicialmente como Analista de Suporte de TI no ano de 2019, e em 
