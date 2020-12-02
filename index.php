@@ -131,7 +131,7 @@
 					<div class="col-md-4 w3-edu-info1">
 						<h3>2020</h3>
 						<h4>Desenvolvedor de Sistemas Full Stack</h4>
-						<a style="color: #efb636"> Atual</a>
+						<a style="color: #efb636"> 12 meses</a>
 					</div>
 					<div class="col-md-6 w3-edu-info2">
 						<h3>ITEP/RN</h3>
