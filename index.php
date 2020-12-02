@@ -226,7 +226,7 @@
 						<h3>Educação</h3>
 					</div>
 					<div class="col-md-3 w3-edu-info-right1">
-						<h3>2018</h3>
+						<h3>2018-2020</h3>
 					</div>
 					<div class="col-md-9 w3-edu-info-right2">
 						<h3>Universidade Federal do Rio Grande do Norte - UFRN</h3>
