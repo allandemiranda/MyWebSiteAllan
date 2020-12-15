@@ -29,7 +29,8 @@
 		<div class="agileinfo-dot">
 			<div class="w3layouts_menu">
 				<nav class="cd-stretchy-nav">
-					<a class="cd-nav-trigger" href="#0"> Menu <span aria-hidden="true"></span> </a>
+					<a class="cd-nav-trigger" href="#0"> Menu <span aria-hidden="true"></span>
+					</a>
 					<ul>
 						<li><a href="#home" class="scroll"><i class="fas fa-home"></i></a></li>
 						<li><a href="#about" class="scroll"><i class="fas fa-info-circle"></i></a></li>
@@ -44,7 +45,7 @@
 			<!-- banner -->
 			<div class="banner">
 				<!--Slider-->
-				<img src="images/pic2.jpg" alt=" " class="img-responsive">
+				<img src="images/pic2.jpg" alt="" class="img-responsive">
 				<h2>Eu sou Allan de Miranda</h2>
 				<span>BACHAREL EM TECNOLOGIA DA INFORMAÇÃO</span>
 			</div>
@@ -53,7 +54,7 @@
 		</div>
 		<div class="thim-click-to-bottom">
 			<a href="#about" class="scroll">
-				<i class="fa  fa-chevron-down"></i>
+				<i class="fa fa-chevron-down"></i>
 			</a>
 		</div>
 
@@ -67,33 +68,41 @@
 				<h3>Sobre mim</h3>
 			</div>
 			<div class="w3-about-grids">
-				<div class=" w3-about-grids1">
+				<div class="w3-about-grids1">
 					<div class="col-md-6 w3-about-grid-left1">
 						<img src="images/5.jpg" alt="img1">
 					</div>
 					<div class="col-md-6 w3-about-grid-right1">
-						<p style="text-align: justify"> Bacharel em Tecnologia da Informação pela UFRN, nascido no dia 20/02/1994 na cidade de Natal/RN.
-							 No ano de 2012 participou dos cursos profissionalizantes Administrador de Redes – SENAC/RN e 
-							 Montagem e Manutenção de Computadores – SENAC/RN. Cursou na UFRN o Bacharelado em Ciências e 
-							 Tecnologia com ênfase em Tecnologia de Telecomunicações de 2012 a 2017, porém não o concluiu. Em 
-							 2013 mudou-se para a Irlanda, onde residiu um ano neste país para aperfeiçoar seu inglês. Durante 
-							 o curso de Ciências e Tecnologia participou da Empresa Júnior da Escola de Ciências e Tecnologia
-							  – EJECT. Na EJECT ingressou em março de 2015 como Desenvolvedor Web, após apresentar a empresa 
-							  diversas vulnerabilidades de segurança web no desenvolvimento de seus sites, e em 8 meses foi 
-							  eleito Diretor de Projetos, onde administrou este setor durante todo o ano de 2016.  </p>
+						<p style="text-align: justify"> Bacharel em Tecnologia da Informação pela
+							UFRN, nascido no dia 20/02/1994 na cidade de Natal/RN. No ano de 2012
+							participou dos cursos profissionalizantes Administrador de Redes –
+							SENAC/RN e Montagem e Manutenção de Computadores – SENAC/RN. Cursou na
+							UFRN o Bacharelado em Ciências e Tecnologia com ênfase em Tecnologia de
+							Telecomunicações de 2012 a 2017, porém não o concluiu. Em 2013 mudou-se
+							para a Irlanda, onde residiu um ano neste país para aperfeiçoar seu
+							inglês. Durante o curso de Ciências e Tecnologia participou da Empresa
+							Júnior da Escola de Ciências e Tecnologia – EJECT. Na EJECT ingressou em
+							março de 2015 como Desenvolvedor Web, após apresentar a empresa diversas
+							vulnerabilidades de segurança web no desenvolvimento de seus sites, e em
+							8 meses foi eleito Diretor de Projetos, onde administrou este setor
+							durante todo o ano de 2016. </p>
 					</div>
 					<div class="clearfix"></div>
 					<div class="w3-about-grids2">
 						<div class="col-md-6 w3-about-grid-right1">
-							<p style="text-align: justify"> Durante todo seu período na EJECT ficou sempre a frente da manutenção da infraestrutura dos 
-								serviços web da empresa. Em 2016 foi indicado pela EJECT para juntar-se ao Conselho Administrativo 
-								da Federação de Empresas Juniores do Estado do Rio Grande do Norte – RN Júnior, onde permaneceu 
-								durante todo aquele ano. Ainda em 2016 participou do Curso de Empreendedorismo do SEBRAE – Empretec
-								, do I Encontro de Atividades Empreendedoras da UFRN e do evento JEWC – Junior Enterprise World 
-								Conference. Em 2017 participou do projeto de extensão Popularização da Inovação em unidades de ensino 
-								básico sob vulnerabilidade socioeconômica – A Inovação é Pop, assim como do I Simpósio Internacional 
-								de Negócios Tecnológicos. Ao fim de 2017 foi aprovado no vestibular de ré enegreço da UFRN para o 
-								curso Bacharelado em Tecnologia da Informação.  </p>
+							<p style="text-align: justify"> Durante todo seu período na EJECT ficou
+								sempre a frente da manutenção da infraestrutura dos serviços web da
+								empresa. Em 2016 foi indicado pela EJECT para juntar-se ao Conselho
+								Administrativo da Federação de Empresas Juniores do Estado do Rio
+								Grande do Norte – RN Júnior, onde permaneceu durante todo aquele ano.
+								Ainda em 2016 participou do Curso de Empreendedorismo do SEBRAE –
+								Empretec , do I Encontro de Atividades Empreendedoras da UFRN e do
+								evento JEWC – Junior Enterprise World Conference. Em 2017 participou do
+								projeto de extensão Popularização da Inovação em unidades de ensino
+								básico sob vulnerabilidade socioeconômica – A Inovação é Pop, assim
+								como do I Simpósio Internacional de Negócios Tecnológicos. Ao fim de
+								2017 foi aprovado no vestibular de ré enegreço da UFRN para o curso
+								Bacharelado em Tecnologia da Informação. </p>
 						</div>
 						<div class="col-md-6 w3-about-grid-right2">
 							<img src="images/7.jpg" alt="img1">
@@ -103,15 +112,20 @@
 							<img src="images/1.jpg" alt="img1">
 						</div>
 						<div class="col-md-6 w3-about-grid-right1">
-							<p style="text-align: justify"> Também participou da Monitoria Integrada de Negócios Tecnológicos – ECT/UFRN onde desenvolveu ações 
-								integradas de ensino, pesquisa e extensão no ano de 2018. Em 2019 participou da escrita de dois capítulos 
-								do livro Gestão do Conhecimento e Inovação – Vol. 10, Editora Poisson. Estagiou no Instituto 
-								Técnico-Científico de Perícia – ITEP/RN, inicialmente como Analista de Suporte de TI no ano de 2019, e em 
-								2020 no cargo de Desenvolvedor de Sistemas Full Stack. No ITEP buscou melhorar a infraestrutura de redes 
-								e propor soluções tecnológicas inovadoras ao instituto, assim como desenvolveu o Sistema de Gerenciamento 
-								de Atendimento Presencial do instituto, o Sistema de Catalogação de Identificação Necropapiloscópica e vinha 
-								contribuindo para o desenvolvimento do novo Sistema de Perícias – SIGEP do instituto. Em 2020 se formou 
-								no Bacharelado em Tecnologia da Informação pela UFRN. </p>
+							<p style="text-align: justify"> Também participou da Monitoria Integrada
+								de Negócios Tecnológicos – ECT/UFRN onde desenvolveu ações integradas
+								de ensino, pesquisa e extensão no ano de 2018. Em 2019 participou da
+								escrita de dois capítulos do livro Gestão do Conhecimento e Inovação –
+								Vol. 10, Editora Poisson. Estagiou no Instituto Técnico-Científico de
+								Perícia – ITEP/RN, inicialmente como Analista de Suporte de TI no ano
+								de 2019, e em 2020 no cargo de Desenvolvedor de Sistemas Full Stack. No
+								ITEP buscou melhorar a infraestrutura de redes e propor soluções
+								tecnológicas inovadoras ao instituto, assim como desenvolveu o Sistema
+								de Gerenciamento de Atendimento Presencial do instituto, o Sistema de
+								Catalogação de Identificação Necropapiloscópica e vinha contribuindo
+								para o desenvolvimento do novo Sistema de Perícias – SIGEP do
+								instituto. Em 2020 se formou no Bacharelado em Tecnologia da Informação
+								pela UFRN. </p>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -124,104 +138,179 @@
 	<div class="w3-edu-top" id="experiences">
 		<div class="container">
 			<div class="w3-edu-grids">
-				<div class="col-md-6 w3-edu-grid-left">
+				<div class="col-md-12">
 					<div class="w3-edu-grid-header">
 						<h3>Experiência</h3>
 					</div>
-					<div class="col-md-4 w3-edu-info1">
+					<div class="col-md-3 w3-edu-info-right1">
 						<h3>2020</h3>
-						<h4>Desenvolvedor de Sistemas Full Stack</h4>
-						<a style="color: #efb636"> 12 meses</a>
+						<h4 style="color: #efb636">Desenvolvedor de Sistemas Full Stack</h4>
+						<i style="color: #efb636"> 12 meses</i>
 					</div>
-					<div class="col-md-6 w3-edu-info2">
-						<h3>ITEP/RN</h3>
-						<h4><i class="fa fa-laptop" aria-hidden="true"></i><span>trainer</span></h4>
-						<p> Responsável por analisar os problemas apresentados por usuários de certo tipo de sistema de
-							informação interno e apresentar soluções, através do desenvolvimento de sistemas
-							computacionais eficazes para executar as tarefas pretendidas. Além de desenvolver sistemas,
-							administrar banco de dados e redes, é o responsável por dar suporte aos usuários, sendo sua
-							responsabilidade atualizar os softwares constantemente e ajustá-lo às necessidades que forem
-							surgindo.</p>
+					<div class="col-md-9 w3-edu-info2">
+						<h3 style="color: #fff">ITEP – Instituto Técnico-Científico de Perícia</h3>
+						<h4><i class="fa fa-laptop" aria-hidden="true"></i><span>Estágio</span></h4>
+						<p style="text-align: justify"> Responsável por analisar os problemas
+							apresentados por usuários de
+							certo tipo de sistema de informação interno e apresentar soluções,
+							através do desenvolvimento de sistemas computacionais eficazes para
+							executar as tarefas pretendidas. Além de desenvolver sistemas, era o
+							responsável por dar suporte aos usuários, sendo minha responsabilidade
+							atualizar os softwares constantemente e ajustá-lo às necessidades que
+							forem surgindo no instituto. Durante o estágio foram desenvolvidos
+							sistemas utilizando as linguagem PHP, JavaScript, HTML, CSS e SQL,
+							frameworks Laravel, React.JS e Express.JS, além dos bancos de dados
+							MySQL, MariaDB, Microsoft SQL Server e MongoDB. Dentre as atividades
+							destaco o desenvolvimento do Sistema de Catalogação de Exames
+							Necropapiloscópico, resultando na melhoria da qualidade do laudo e
+							identificação de cadáveres, e a criação do Sistema de Chamador para
+							melhor organização no atendimento presencial para exames (psicológicos e
+							de corpo de delito) do instituto, melhorando o ambiente de comunicação e
+							organização na sala de espera, assim como a minha atuação no
+							desenvolvimento do novo Sistema Integrado de Gestão de Perícias - SIGEP.
+						</p>
 					</div>
-					<div class="col-md-4 w3-edu-info1">
+					<div class="col-md-3 w3-edu-info-right1">
 						<h3>2019</h3>
-						<h4>Analista de Suporte de TI</h4>
-						<a style="color: #efb636"> 6 meses</a>
+						<h4 style="color: #efb636">Analista de Suporte de TI</h4>
+						<i style="color: #efb636"> 6 meses</i>
 					</div>
-					<div class="col-md-6 w3-edu-info2">
-						<h3>ITEP/RN</h3>
-						<h4><i class="fa fa-laptop" aria-hidden="true"></i><span>trainer</span></h4>
-						<p> Responsável pela base de Tecnologia de Informação (TI), garantindo o suporte técnico para o
-							tráfego de informações.Tem como responsabilidade realizar o suporte técnico em software e
-							hardware, assim como a prestação e manutenção em redes de computadores.</p>
+					<div class="col-md-9 w3-edu-info2">
+						<h3 style="color: #fff">ITEP – Instituto Técnico-Científico de Perícia</h3>
+						<h4><i class="fa fa-laptop" aria-hidden="true"></i><span>Estágio</span></h4>
+						<p style="text-align: justify"> Responsável pela base de Tecnologia de
+							Informação, assegurando
+							suporte técnico ao tráfego de informações, com suporte técnico em
+							software/hardware e manutenção em redes de computadores. Atuação no
+							monitoramento de rede e serviços dos servidores, montagem/manutenção de
+							computadores e suporte ao usuário nos sistemas do instituto. Mapeamento
+							de rede e servidores, realizando modificações, com alcance da melhoria
+							no tempo de resposta em rede, redução dos problemas de conectividade com
+							a rede e minimização do tempo de ociosidade de servidores com
+							necessidade de acesso à Internet. Segurança dos dados de serviço,
+							instalação, configuração e atualização de programas de antivírus,
+							execução das cópias de segurança, estudo da implantação e documentação
+							para melhoria na operação dos computadores. Manutenção dos variados
+							sistemas operacionais atualizados/instalados e da comunicação digital,
+							instalação do banco de dados, cópias de segurança e manutenção de
+							rotina. As principais ferramentas utilizadas eram Zabbix e Wireshark,
+							sistemas operacionais CentOS, Ubuntu, Debian, Windows e, principalmente,
+							Windows Server, assim como Apache, MariaDB, SQL Server e o repositório
+							GitLab. Manutenção, configuração e instalação de roteadores e switches
+							Cisco, D-Link, TP-Link e Intelbras. Por se tratar de um órgão da
+							Segurança Pública do Governo do Estado do Rio Grande do Norte, não posso
+							divulgar versões nem mais informações de serviços que a rede possui,
+							muito menos detalhar eles. </p>
 					</div>
-					<div class="col-md-4 w3-edu-info1">
+					<div class="col-md-3 w3-edu-info-right1">
 						<h3>2018</h3>
-						<h4>Monitoria Integrada de Negócios Tecnológicos</h4>
-						<a style="color: #efb636"> 10 meses</a>
+						<h4 style="color: #efb636">Monitoria Integrada de Negócios Tecnológicos</h4>
+						<i style="color: #efb636"> 10 meses</i>
 					</div>
-					<div class="col-md-6 w3-edu-info2">
-						<h3>ECT/UFRN</h3>
-						<h4><i class="fas fa-chalkboard-teacher" aria-hidden="true" style="color: #efb636; font-size: 1.5em;"></i><span>Monitor</span></h4>
-						<p> Desenvolver ações integradas de ensino, pesquisa e extensão, como monitor da disciplina de
-							Gestão e economia da ciência, tecnologia e inovação. </p>
+					<div class="col-md-9 w3-edu-info2">
+						<h3 style="color: #fff">ECT – Escola de Ciências e Tecnologia (UFRN)</h3>
+						<h4><i class="fas fa-chalkboard-teacher" aria-hidden="true" style="color:
+									#efb636; font-size: 1.5em;"></i><span>Monitor</span></h4>
+						<p style="text-align: justify"> Desenvolvimento das ações integradas de
+							ensino, pesquisa e extensão,
+							nas disciplinas de Metodologia Científica e Tecnológica, Teoria para
+							Resolução Inventiva de Problemas, Modelagem de risco, Instituições e
+							Serviços Tecnológicos, Fundamentos de Propriedade Intelectual e
+							Transferência de Tecnologia, Matemática Financeira, Políticas de Gestão
+							em Ciência, Tecnologia e Inovação, Arranjos Produtivos Tecnológicos,
+							Gestão em Tecnologias de Ruptura, Práticas de Startup Tecnológica I e
+							II, Empreendedorismo, Negócios e Gestão de Projetos Inovadores, Gestão e
+							Economia da Ciência, Tecnologia e Inovação, e Ciência, Tecnologia e
+							Sociedade III. Difusão da cultura da inovação e do empreendedorismo, com
+							base no papel da Ciência, Tecnologia e Inovação (CTI) na dinâmica
+							socioeconômica, desenvolvendo processos acadêmicos na geração de riqueza
+							socioeconômica. Transformação do conhecimento científico-tecnológico em
+							ativo de valor agregado para a economia brasileira, utilizando
+							ecossistema de ensino em CTI da ECT como incentivo a permanência do
+							capital intelectual da instituição e investimento na produção acadêmica
+							para economia norte-riograndense. </p>
 					</div>
-					<div class="col-md-4 w3-edu-info1">
+					<div class="col-md-3 w3-edu-info-right1">
 						<h3>2017</h3>
-						<h4>Projeto de Extenção - A inovação é pop!</h4>
-						<a style="color: #efb636"> 6 meses</a>
+						<h4 style="color: #efb636">Projeto de Extenção - A inovação é pop!</h4>
+						<i style="color: #efb636"> 6 meses</i>
 					</div>
-					<div class="col-md-6 w3-edu-info2">
-						<h3>ECT/UFRN</h3>
-						<h4><i class="fas fa-project-diagram" aria-hidden="true" style="color: #efb636; font-size: 1.5em;"></i><span>Projeto</span></h4>
-						<p> Alicerçado em ações de ensino e pesquisa, o projeto de extensão 'Popularização da Inovação
-							em unidades de ensino básico sob vulnerabilidade socioeconômica (A Inovação é Pop!)' a ser
-							realizado, de forma piloto, em duas unidades educacionais de ensino básico sob
-							vulnerabilidade socioeconômica da rede pública da cidade de Natal, tem como objetivo criar
-							estratégias de desenvolvimento socioeconômico é o objetivo central de todas as atividades do
-							grupo Negócios Tecnológicos da Escola de Ciências e Tecnologia (ECT) da Universidade Federal
-							do Rio Grande do Norte (UFRN). </p>
+					<div class="col-md-9 w3-edu-info2">
+						<h3 style="color: #fff">ECT – Escola de Ciências e Tecnologia (UFRN)</h3>
+						<h4><i class="fas fa-project-diagram" aria-hidden="true" style="color:
+									#efb636; font-size: 1.5em;"></i><span>Projeto</span></h4>
+						<p style="text-align: justify"> Atuação em ações de ensino e pesquisa,
+							com projeto de extensão
+							Popularização da Inovação em Unidades de Ensino Básico sob
+							Vulnerabilidade Socioeconômica (A Inovação é Pop) para realização do
+							piloto em duas unidades educacionais de ensino básico sob
+							vulnerabilidade socioeconômica da rede pública da cidade de Natal. Foco
+							na criação de estratégias de desenvolvimento socioeconômico, sendo
+							objetivo central de todas as atividades do Grupo Negócios Tecnológicos
+							da Escola de Ciências e Tecnologia (ECT) da Universidade Federal do Rio
+							Grande do Norte (UFRN). </p>
 					</div>
-					<div class="col-md-4 w3-edu-info1">
+					<div class="col-md-3 w3-edu-info-right1">
 						<h3>2016</h3>
-						<h4>Conselheiro Deliberativo</h4>
-						<a style="color: #efb636"> 12 meses</a>
+						<h4 style="color: #efb636">Conselheiro Deliberativo</h4>
+						<i style="color: #efb636"> 12 meses</i>
 					</div>
-					<div class="col-md-6 w3-edu-info2">
-						<h3>RN Júnior</h3>
-						<h4><i class="fas fa-street-view" aria-hidden="true" style="color: #efb636; font-size: 1.5em;"></i><span>Orientação Superior</span></h4>
-						<p> Verificar os dados da federação de empresas juniores do Rio Grande do Norte e deliberar
-							ações para melhoria da federação, fomentando o desenvolvimento do empreendedorismo ainda
-							dentro das universidades do Rio Grande do Norte. </p>
+					<div class="col-md-9 w3-edu-info2">
+						<h3 style="color: #fff">RN Júnior – Federação das Empresas Juniores do Estado do Rio Grande do Norte</h3>
+						<h4><i class="fas fa-street-view" aria-hidden="true" style="color:
+									#efb636; font-size: 1.5em;"></i><span>Administração</span></h4>
+						<p style="text-align: justify"> Verificação de dados da Federação de
+							Empresas Juniores do Rio Grande
+							do Norte e deliberação de ações para melhorias, fomentando o
+							desenvolvimento do Empreendedorismo nas universidades do Rio Grande do
+							Norte. </p>
 					</div>
-					<div class="col-md-4 w3-edu-info1">
+					<div class="col-md-3 w3-edu-info-right1">
 						<h3>2016</h3>
-						<h4>Diretor de Projetos</h4>
-						<a style="color: #efb636"> 12 meses</a>
+						<h4 style="color: #efb636">Diretor de Projetos</h4>
+						<i style="color: #efb636"> 12 meses</i>
 					</div>
-					<div class="col-md-6 w3-edu-info2">
-						<h3>EJECT</h3>
-						<h4><i class="fas fas fa-users" aria-hidden="true" style="color: #efb636; font-size: 1.5em;"></i><span>Liderança</span></h4>
-						<p> Poder de persuasão conseguindo apoio das pessoas ao seu redor, lidar com diferentes
-							interesses, manter um processo aberto e transparente de comunicação, avaliar e aplicar ações
-							estratégicas para obter melhores resultados na evolução dos projetos, alocação de recursos,
-							mantendo um monitoramento de possíveis riscos propondo soluções e agindo quando for
-							necessário, com isso liderando a equipe rumo ao sucesso. </p>
+					<div class="col-md-9 w3-edu-info2">
+						<h3 style="color: #fff">EJECT – Empresa Junior da Escola de Ciências e Tecnologia</h3>
+						<h4><i class="fas fas fa-users" aria-hidden="true" style="color: #efb636;
+									font-size: 1.5em;"></i><span>Liderança</span></h4>
+						<p style="text-align: justify"> Captação de apoio, manutenção da abertura
+							de processos e
+							transparência da comunicação, com avaliação/aplicação de ações
+							estratégicas para obtenção de melhores resultados na evolução dos
+							projetos. Alocação de recursos e manutenção do monitoramento de
+							possíveis riscos, com propostas de soluções e realização de ações quando
+							necessário, liderando equipe com foco em resultados. Responsável pela
+							aplicação de melhorias organizacionais para alcance das metas da empresa
+							e obtenção de melhores resultados. Atuação na área de Projetos,
+							resultando no aumento do faturamento e reconhecimento da empresa júnior
+							como referência no Brasil. </p>
 					</div>
-					<div class="col-md-4 w3-edu-info1">
+					<div class="col-md-3 w3-edu-info-right1">
 						<h3>2015</h3>
-						<h4>Desenvolvedor de sistemas web</h4>
-						<a style="color: #efb636"> 9 meses</a>
+						<h4 style="color: #efb636">Desenvolvedor de Sistemas Web</h4>
+						<i style="color: #efb636"> 9 meses</i>
 					</div>
-					<div class="col-md-6 w3-edu-info2">
-						<h3>EJECT</h3>
-						<h4><i class="fas fas fa-code" aria-hidden="true" style="color: #efb636; font-size: 1.5em;"></i><span>Programador</span></h4>
-						<p> Desenvolver sistemas web e manutenção de servidor web, consolidando-se como referência em
-							soluções simples para o desenvolvimento de projetos web. </p>
+					<div class="col-md-9 w3-edu-info2">
+						<h3 style="color: #fff">EJECT – Empresa Junior da Escola de Ciências e Tecnologia</h3>
+						<h4><i class="fas fas fa-code" aria-hidden="true" style="color: #efb636;
+									font-size: 1.5em;"></i><span>Desenvolvedor</span></h4>
+						<p style="text-align: justify"> Responsável pelo desenvolvimento de
+							sistemas web personalizados para
+							os clientes da empresa, desenvolvíamos os sistemas utilizando as
+							linguagens PHP, Python, SQL, HTML, CSS e JavaScript, consolidando-se
+							como referência em soluções simples para o desenvolvimento de projetos
+							web. Além do desenvolvimento de sistemas web, era responsável pela
+							manutenção da infraestrutura de hospedagem dos projetos e seus serviços
+							como cPanel, Apache, MySQL, BIND e e-mail, assim como pela implementação
+							de novos projetos nos servidores de hospedagem. Meu diferencial estava
+							na correção das falhas de segurança nos sistemas/servidores da empresa,
+							eliminando totalmente o comprometimento de projetos por falha de
+							segurança. </p>
 					</div>
 					<div class="clearfix"></div>
 				</div>
-				<div class="col-md-6 w3-edu-grid-right">
+				<div class="col-md-12">
 					<div class="w3-edu-grid-header">
 						<h3>Educação</h3>
 					</div>
@@ -231,9 +320,21 @@
 					<div class="col-md-9 w3-edu-info-right2">
 						<h3>Universidade Federal do Rio Grande do Norte - UFRN</h3>
 						<h4>Bacharelado em Tecnologia da Informação</h4>
-						<p> O Bacharelado em Tecnologia da Informação (BTI) da UFRN segue os princípios de um
-							Bacharelado Interdisciplinar, tendo como principal área de conhecimento a Tecnologia da
-							Informação.</p>
+						<p style="text-align: justify; width: 100%;"> O Bacharelado em Tecnologia da Informação
+							(BTI) da UFRN segue os
+							princípios de um Bacharelado Interdisciplinar, tendo como principal área
+							de conhecimento a Tecnologia da Informação. A formação superior advinda
+							dos bacharelados interdisciplinares se caracteriza pela flexibilidade da
+							matriz curricular. A partir do cumprimento de componentes curriculares
+							obrigatórios, o discente pode tanto criar uma combinação própria de
+							componentes curriculares optativos de acordo com as suas necessidades,
+							interesses e méritos acadêmicos, quanto escolher uma das cinco ênfases
+							para se especializar. Assim, o aluno deve considerar as competências e
+							habilidades profissionais que deseja desenvolver e aprimorar. O BTI
+							representa o primeiro ciclo dessa formação, dispondo das seguintes
+							ênfases: Sistemas Embarcados, Sistemas de Informações de Gestão,
+							Informática Educacional, Ciência da Computação, Engenharia de Software.
+						</p>
 					</div>
 					<div class="clearfix"></div>
 					<div class="col-md-3 w3-edu-info-right1">
@@ -241,11 +342,19 @@
 					</div>
 					<div class="col-md-9 w3-edu-info-right2">
 						<h3>Universidade Federal do Rio Grande do Norte - UFRN</h3>
-						<h4>Bacharelado em Ciências e Tecnologia, ênfase em Tecnologia de Telecomunicações, não
+						<h4>Bacharelado em Ciências e Tecnologia, ênfase em Tecnologia de
+							Telecomunicações, não
 							concluída</h4>
-						<p> O curso de Bacharelado em Ciências e Tecnologia – BC&T é novo na UFRN. O caminho natural
-							desse curso é a formação generalista e, ao longo de sua formação, os alunos estudarão
-							conteúdos básicos da área de Ciências e Tecnologia.</p>
+						<p style="text-align: justify; width: 100%;"> O curso de Bacharelado em Ciências e
+							Tecnologia – BC&T é novo na
+							UFRN. A primeira turma de 500 alunos entrou no semestre 2009.2. O
+							caminho natural desse curso é a formação generalista e, ao longo de sua
+							formação, os alunos estudarão conteúdos básicos da área de Ciências e
+							Tecnologia. Porém esse curso tem um modelo diferente dos tradicionais
+							ofertados na UFRN. Trata-se de um modelo conhecido como formação em dois
+							ciclos. Isto significa que o aluno, ao optar por fazer este curso com
+							duração de 03 anos, terá oportunidade de reingressar em outro curso
+							vinculado ao BC&T. </p>
 					</div>
 					<div class="clearfix"></div>
 					<div class="col-md-3 w3-edu-info-right1">
@@ -254,8 +363,14 @@
 					<div class="col-md-9 w3-edu-info-right2">
 						<h3>Serviço Nacional de Aprendizagem Comercial - SENAC/RN</h3>
 						<h4>Profissionalizante em Administrador de Redes</h4>
-						<p> O Administrador de Redes é o profissional que implanta, administra e documenta rotinas e
-							projetos de rede, controlando os níveis de serviço de sistemas computacionais.
+						<p style="text-align: justify; width: 100%;"> Curso que capacita o profissional a
+							implantar, administrar e
+							documentar rotinas e projetos de rede, controlando os níveis de serviço
+							de sistemas computacionais. Realizar monitoramento de redes,
+							configuração de switches e roteadores wifi, links de dados, servidores
+							de e-mail, arquivos, aplicação, impressão e prestar atendimento remoto a
+							usuários. Controlar incidentes e problemas no sistema de service desk,
+							criar e manter ambiente atualizado, inventariado e organizado.
 						</p>
 					</div>
 					<div class="clearfix"></div>
@@ -265,9 +380,10 @@
 					<div class="col-md-9 w3-edu-info-right2">
 						<h3>Serviço Nacional de Aprendizagem Comercial - SENAC/RN</h3>
 						<h4>Profissionalizante em Montagem e Manutenção de Computadores</h4>
-						<p> Curso que capacita o aluno para o exercício da ocupação de Montador e Reparador de
-							Computadores, diagnosticando falhas e solucionando problemas técnicos em equipamentos de
-							Informática.</p>
+						<p style="text-align: justify; width: 100%;"> Curso que capacita o profissional para o
+							exercício da ocupação de
+							Montador e Rparador de Computadores, diagnosticando falhas e
+							solucionando problemas técnicos em equipamentos de Informática. </p>
 					</div>
 					<div class="clearfix"></div>
 					<div class="col-md-3 w3-edu-info-right1">
@@ -276,10 +392,13 @@
 					<div class="col-md-9 w3-edu-info-right2">
 						<h3>Salesiano São José - Natal/RN</h3>
 						<h4>Ensino médio</h4>
-						<p>A Lei nº 9394, de 31 de dezembro de 1996, denominada Lei de Diretrizes e Bases da Educação
-							Nacional (LDB), estabelece sua regulamentação específica e uma composição curricular mínima
-							obrigatória. O ensino médio dura três anos. O mínimo é de 2200 horas de aula ao longo de
-							três anos.</p>
+						<!-- <p>A Lei nº 9394, de 31 de dezembro de 1996, denominada Lei de Diretrizes
+								e Bases da Educação
+								Nacional (LDB), estabelece sua regulamentação específica e uma
+								composição curricular mínima
+								obrigatória. O ensino médio dura três anos. O mínimo é de 2200 horas de
+								aula ao longo de
+								três anos.</p> -->
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -306,7 +425,8 @@
 									</div>
 								</div>
 								<div style="text-align: center;">
-									<div class='bar_group__bar' label='Linguagens de programação, APIs e bibliotecas para desenvolvedores' show_values='false' tooltip='false' value='999'></div>
+									<div class='bar_group__bar' label='Linguagens de programação, APIs e
+											bibliotecas para desenvolvedores' show_values='false' tooltip='false' value='999'></div>
 								</div>
 
 								<div style="font-style: italic;">
@@ -431,6 +551,9 @@
 								</div>
 								<div style="margin-left: 10%; margin-top: -3%;">
 									<div class='bar_group__bar' label='CentOS' show_values='false' tooltip='false' value='999'></div>
+								</div>
+								<div style="margin-left: 20%; margin-top: -3%;">
+									<div class='bar_group__bar' label='cPanel' show_values='false' tooltip='false' value='999'></div>
 								</div>
 								<div style="margin-left: 10%; margin-top: -3%;">
 									<div class='bar_group__bar' label='Red Hat' show_values='false' tooltip='false' value='999'></div>
@@ -659,7 +782,7 @@
 								<div style="text-align: center;">
 									<div class='bar_group__bar' label='Virtualização' show_values='false' tooltip='false' value='999'></div>
 								</div>
-                                                                <div style="font-style: italic;">
+								<div style="font-style: italic;">
 									<div class='bar_group__bar' label='Docker' show_values='false' tooltip='false' value='999'>
 									</div>
 								</div>
@@ -727,6 +850,7 @@
 		</div>
 	</div>
 	<!-- //skills -->
+
 
 	<!-- main-content -->
 	<div class="main-content">
@@ -1335,7 +1459,6 @@
 		</div>
 	</div>
 	<script src="js/jquery.filterizr.js"></script>
-
 	<!-- Kick off Filterizr -->
 	<script type="text/javascript">
 		$(function() {
@@ -1343,7 +1466,6 @@
 			$('.filtr-container').filterizr();
 		});
 	</script>
-
 	<!-- contact -->
 	<!-- <div class="contact" id="contact">
 		<div class="container">
@@ -1364,16 +1486,13 @@
 					<div class="clearfix"> </div>
 				</form>
 			</div>
-
 		</div>
 	</div> -->
 	<!-- //contact -->
 	<!-- footer -->
 	<div class="w3l_footer" id="contact">
 		<div class="container">
-
 			<div class="w3ls_footer_grids">
-
 				<div class="w3ls_footer_grid">
 					<div class="col-md-4 w3ls_footer_grid_left">
 						<div class="w3ls_footer_grid_leftl">
@@ -1435,10 +1554,7 @@
 	<script src="js/modernizr.js"></script>
 	<script src="js/menu.js"></script>
 	<!-- //menu-js -->
-
-
 	<script type="text/javascript" src="js/move-top.js"></script>
-
 	<script type="text/javascript" src="js/easing.js"></script>
 	<script type="text/javascript">
 		jQuery(document).ready(function($) {
@@ -1461,15 +1577,11 @@
 				easingType: 'linear' 
 				};
 			*/
-
 			$().UItoTop({
 				easingType: 'easeOutQuart'
 			});
-
 		});
 	</script>
-
-
 </body>
 
 </html>
